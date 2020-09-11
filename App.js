@@ -22,7 +22,7 @@ export default function App() {
   };
 
   const endPoint = "https://api.openweathermap.org/data/2.5/forecast?lang=pt_br&units=metric&q=";
-  const apiKey = "ef0b0973b783e0614ac87612ec04344b";
+  const apiKey = "";
   return (
     <View style={styles.container}>
       <View style={styles.entrada}>
